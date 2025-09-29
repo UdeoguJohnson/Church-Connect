@@ -1,0 +1,14 @@
+Basic Features:
+
+Church Registration:
+Churches sign up with unique church name (username) and password.
+Passwords stored hashed for security.
+Member Registration / Login:
+Members create accounts and search/join a church by its name.
+When joining, their record is linked to the church.
+Authentication:
+Use Django built in Authentication.
+Church Admin Panel:
+Once logged in, churches can post/manage events, view members, view prayer request.
+Member View:
+Members can see their church’s events, create/manage prayer request.
